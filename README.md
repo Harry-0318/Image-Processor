@@ -29,7 +29,7 @@ The script performs the following steps:
 2. Run the script:
 
    ```bash
-   python script.py
+   python photoeditor.py
    ```
 
 3. The edited images will be saved in the `./editedimgs` directory.
